@@ -11,5 +11,9 @@
 - [X] Must have a skibidi toilet refrence at least once in the code
 - [X] Must not increase games CPU usage by a ton
 - [X] Must be organized simply and anyone who knows how to code should be able to understand it
-## Current version V1.0
+## Updates
+# version V1.1
+- this has no actual features still and has some more testing and a cache for local player pawn and controller
+- 
+# version V1.0
 - this has no actual features and is just for testing the sdk theres an undetected injector if you want to use it though <3
