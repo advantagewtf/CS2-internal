@@ -6,10 +6,10 @@
 - [X] The no schema rule does NOT mean no SDK in fact an sdk is highly encouraged.
 - [X] Must be auto updating WITHOUT using signatures
 - [ ] Must be undetected
-- [ ] Must have a sort of GUI created with a dx11 hook
+- [X] Must have a sort of GUI created with a dx11 hook
 - [ ] Must look nice. cant just be a sloppy project put together by god knows what.
 - [X] Must have a skibidi toilet refrence at least once in the code
-- [ ] Must not increase games CPU usage by a ton
-- [ ] Must be organized simply and anyone who knows how to code should be able to understand it
+- [X] Must not increase games CPU usage by a ton
+- [X] Must be organized simply and anyone who knows how to code should be able to understand it
 ## Current version V1.0
 - this has no actual features and is just for testing the sdk theres an undetected injector if you want to use it though <3
